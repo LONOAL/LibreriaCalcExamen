@@ -8,6 +8,7 @@ public class Calculadora {
     static final int RESTA = 2;
     static final int MULTIPLICACION = 3;
     static final int DIVISION = 4;
+    static final int RAIZ = 5;
 
 
     /**
